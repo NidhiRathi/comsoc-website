@@ -1,4 +1,3 @@
-
 - name: Théo Delemazure
   affiliation: LAMSADE, Université Paris Dauphine
   year: 2025
@@ -270,6 +269,16 @@
   supervisors:
     - Jörg Rothe
 
+- name: Nidhi Rathi
+  affiliation: Indian Institute of Science, Bangalore
+  year: 2021
+  url: https://etd.iisc.ac.in/handle/2005/5205
+  title: Algorithmic and Hardness Results for Fundamental Fair-Division Problems
+  supervisors:
+    - Siddharth Barman
+    - Mrinal K. Ghosh
+
+    
 - name: Sirin Botan
   affiliation: ILLC, University of Amsterdam
   year: 2021
